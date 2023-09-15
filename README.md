@@ -14,6 +14,7 @@
 - La resistencia de valor total se mueve un cursor, que es un contacto móvil que divide la resistencia total en dos resistencias de valor variable y cuya suma es la resistencia total, por lo que al mover el cursor una aumenta y la otra disminuye
 
 ### Tipos
+
 | Tipo de Potenciómetro      | Descripción                                           |
 |----------------------------|-------------------------------------------------------|
 | Potenciómetro Lineal       | Resistencia varía linealmente con el giro o deslizamiento. |
