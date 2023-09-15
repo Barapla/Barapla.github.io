@@ -1,11 +1,47 @@
-## Potentiometer
+## Potenciómetro
 
 ### Plascencia Araujo Bryan De Jesus 20211825
 
 ![Potentiometer](https://upload.wikimedia.org/wikipedia/commons/0/0a/Electronic-Component-Potentiometer.jpg)
 
 ### Definición
-- 
+- Es un dispositivo que se utiliza para la medición de las diferencias de potencial eléctrico
+
+### Componentes 
+- Restencia de valor
+
+### Funcionamiento
+- La resistencia de valor total se mueve un cursor, que es un contacto móvil que divide la resistencia total en dos resistencias de valor variable y cuya suma es la resistencia total, por lo que al mover el cursor una aumenta y la otra disminuye
+
+### Tipos
+| Tipo de Potenciómetro      | Descripción                                           |
+|----------------------------|-------------------------------------------------------|
+| Potenciómetro Lineal       | Resistencia varía linealmente con el giro o deslizamiento. |
+| Potenciómetro Rotativo     | Se ajusta girando un eje, común en controles de volumen. |
+| Potenciómetro Deslizante   | Se desliza a lo largo de una pista resistiva, como faders en mezcladores. |
+| Potenciómetro Multivuelta  | Permite múltiples vueltas para una mayor precisión. |
+| Potenciómetro de Película de Carbón | Utiliza una película de carbón como elemento resistivo. |
+| Potenciómetro de Película Conductora | Emplea una película conductora en lugar de carbón. |
+| Potenciómetro de Alambre Bobinado | Se basa en un alambre enrollado alrededor de un núcleo. |
+| Potenciómetro Digital (Encoder Rotativo) | Emite señales digitales que representan la posición. |
+| Potenciómetro de Película Delgada | Utiliza una película delgada de material resistivo. |
+| Potenciómetro de Precisión  | Diseñado para aplicaciones que requieren alta precisión. |
+
+
+### Proyectos
+
+| Proyecto              | Descripción                                       |
+|-----------------------|---------------------------------------------------|
+| Control de volumen    | Utiliza un potenciómetro para ajustar el volumen de un altavoz o auriculares. |
+| Control de brillo     | Ajusta la intensidad de una luz LED o pantalla LCD mediante un potenciómetro. |
+| Control de servo      | Controla la posición de un servo motor con un potenciómetro. Puede usarse para crear un sistema de apuntado o una puerta automática. |
+| Medidor de temperatura| Conecta un termistor a un potenciómetro para crear un termómetro ajustable. |
+| Juego de laberinto     | Crea un juego en el que un jugador debe navegar por un laberinto controlando un cursor con un potenciómetro. |
+| Generador de señales   | Diseña un generador de señales de audio utilizando un potenciómetro para ajustar la frecuencia. |
+| Control de velocidad   | Controla la velocidad de un motor DC o un motor paso a paso mediante un potenciómetro. |
+| Simulador de volante   | Construye un simulador de volante para juegos de conducción utilizando un potenciómetro para el control de dirección. |
+| Control de tono       | Ajusta el tono de una señal de audio con un potenciómetro. Puede ser útil para un ecualizador casero. |
+| Medidor de humedad    | Crea un medidor de humedad ajustable utilizando un potenciómetro y un sensor de humedad. |
 
 
 <!--
