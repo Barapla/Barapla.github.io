@@ -1,3 +1,14 @@
+## Potentiometer
+
+### Plascencia Araujo Bryan De Jesus 20211825
+
+![Potentiometer](https://upload.wikimedia.org/wikipedia/commons/0/0a/Electronic-Component-Potentiometer.jpg)
+
+### Definición
+- 
+
+
+<!--
 ### Hi i'm Bryan Araujo👋
 
 #### :computer: i'm part of [Cross Innovation labs](http://www.cilabs.io) team
