@@ -5,10 +5,20 @@
 ![Potentiometer](https://upload.wikimedia.org/wikipedia/commons/0/0a/Electronic-Component-Potentiometer.jpg)
 
 ### Definición
-- Es un dispositivo que se utiliza para la medición de las diferencias de potencial eléctrico
+- Es un dispositivo eléctrico utilizado para medir, ajustar o controlar la resistencia eléctrica en un circuito.
+
+### Características
+- Su principal característica es su capacidad para variar la resistencia eléctrica de manera controlada y continua mediante un dial, una perilla o un deslizador. Esto se logra mediante un componente resistivo interno, comúnmente una pista de carbono o una película conductora, que se ajusta mediante el movimiento mecánico de la perilla o el deslizador.
 
 ### Componentes 
-- Restencia de valor
+- Pista resistiva
+- Terminal de entrada
+- Terminal de salida
+- Terminal móvil
+- Eje y perilla
+- Carcasa
+- Mecanismo de montaje
+- Terminales adicionales  
 
 ### Funcionamiento
 - La resistencia de valor total se mueve un cursor, que es un contacto móvil que divide la resistencia total en dos resistencias de valor variable y cuya suma es la resistencia total, por lo que al mover el cursor una aumenta y la otra disminuye
